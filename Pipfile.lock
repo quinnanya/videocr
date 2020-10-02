@@ -125,7 +125,7 @@
             "index": "pypi",
             "version": "==0.2.6"
         },
-        "python-levenshtein": {
+        "python-levenshtein-wheels": {
             "hashes": [
                 "sha256:033a11de5e3d19ea25c9302d11224e1a1898fe5abd23c61c7c360c25195e3eb1"
             ],
